@@ -1,0 +1,702 @@
+[
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 0,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_20500",
+        "savedTimestamp": "2025-06-14T23:51:12.302146"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 0,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_90541",
+        "savedTimestamp": "2025-06-15T08:53:44.542103"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "spd": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 0,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_31872",
+        "savedTimestamp": "2025-06-15T08:53:51.072323"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 0,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_62300",
+        "savedTimestamp": "2025-06-15T12:24:31.058260"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 0,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_35753",
+        "savedTimestamp": "2025-06-15T12:33:34.456451"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 0,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_59200",
+        "savedTimestamp": "2025-06-15T20:41:17.271708"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 200,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_45356",
+        "savedTimestamp": "2025-06-15T20:41:37.935271"
+    },
+    {
+        "rcvTime": 9.264661645323999,
+        "sendTime": 9.264661645323999,
+        "sender": 39,
+        "vehicleId": 10399,
+        "EventID": 25413,
+        "pos": [
+            11382.933875253684,
+            1595.1381121816032,
+            0.0
+        ],
+        "spd": [
+            -12.301524740574997,
+            9.769453411763335,
+            0.0
+        ],
+        "acl": [
+            -1.7426999057017416,
+            1.384111457443116,
+            0.0
+        ],
+        "hed": [
+            11.933875253684,
+            2.23232,
+            0.0
+        ],
+        "pos_noise": [
+            1.23342352,
+            0.454533,
+            0.0
+        ],
+        "spd_noise": [
+            0.24234343,
+            0.23243243,
+            0.0
+        ],
+        "acl_noise": [
+            -1.7426999057017416,
+            1.384111457443116,
+            0.0
+        ],
+        "hed_noise": [
+            0.23123232,
+            0.2143245465,
+            0.0
+        ],
+        "sender_GPS": [
+            6.1856020233970685,
+            49.6388619731875,
+            0.0
+        ],
+        "currentDirection": [
+            -0.7769632459978103,
+            0.6295459589009734,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 18,
+        "maxSpeed": -200,
+        "maxDeceleration": 4,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_27933",
+        "savedTimestamp": "2025-06-15T22:41:56.223278"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": -200,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_25603",
+        "savedTimestamp": "2025-06-15T23:36:47.016374"
+    },
+    {
+        "rcvTime": 0.0,
+        "sendTime": 0.0,
+        "sender": 0,
+        "vehicleId": 0,
+        "EventID": 0,
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spd_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "acl_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hed_noise": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "sender_GPS": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "currentDirection": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "laneIndex": 0,
+        "lanePosition": 0,
+        "maxSpeed": 200,
+        "maxDeceleration": 0,
+        "hazardOccurrencePercentage": 0,
+        "type": "CAM",
+        "senderPseudo": "ManualUser",
+        "exchangedMessageType": "CAM",
+        "EventType": "Normal",
+        "RoadID": "Unknown",
+        "hazardOccurrence": false,
+        "messageID": "MSG_59631",
+        "savedTimestamp": "2025-06-15T23:36:56.119262"
+    }
+]
